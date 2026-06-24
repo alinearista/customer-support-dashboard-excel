@@ -52,7 +52,7 @@ A customer support organization wanted to understand:
 
 ## Dashboard Preview
 
-(https://github.com/alinearista/customer-support-dashboard-excel/blob/4c3633573a0cf529d28fbb72e5aa311ed5e844e3/Screenshot%202026-06-23%20182218.png))
+![Dashboard](Screenshot%202026-06-23%20182218.png)
 
 ---
 
